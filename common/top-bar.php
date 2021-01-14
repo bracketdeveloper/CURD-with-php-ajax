@@ -9,34 +9,10 @@
             <li class="nav-item active">
                 <a class="nav-link" href="index.php">Home </a>
             </li>
-            <?php
-            if (!((isset($_SESSION['username'])))) {
-                ?>
-                <li class="nav-item">
-                    <a class="nav-link" href="login.php">Login</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="register.php">Register</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="admin/">Admin</a>
-                </li>
-                <?php
-            } else {
-                ?>
-                <li class="nav-item active">
-                    <a class="nav-link" href="history.php">Quiz History </a>
-                </li>
-
-                <?php
-            }
-            ?>
 
         </ul>
     </div>
-    <?php
-    if (((isset($_SESSION['username'])))) {
-        ?>
+
         <div class="pull-right" style="margin-right: 50px">
             <ul class="navbar-nav mr-auto pull-right">
                 <li class="nav-item">
@@ -45,7 +21,5 @@
                 </li>
             </ul>
         </div>
-        <?php
-    }
-    ?>
+
 </nav>

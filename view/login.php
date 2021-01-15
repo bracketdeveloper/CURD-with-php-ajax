@@ -13,13 +13,13 @@ if((isset($_SESSION['username']) )){
         <h1>Login Form</h1>
         <form method="post">
             <div class="form-group">
-                <input type="text" class="form-control" id="txt_username" placeholder="Enter username">
+                <input type="text" class="form-control" id="txt-username" placeholder="Enter username">
             </div>
             <div class="form-group">
-                <input type="password" class="form-control" id="txt_password" placeholder="Enter password">
+                <input type="password" class="form-control" id="txt-password" placeholder="Enter password">
             </div>
             <div style="margin-top: 20px">
-                <input type="button" class="btn btn-primary" value="Login" id="btn-login">
+                <input type="button" class="btn btn-primary" value="Login" id="btn-login" onclick="loginForm()">
             </div>
         </form>
     </div>
@@ -27,4 +27,4 @@ if((isset($_SESSION['username']) )){
 <?php
 include "../common/footer.php";
 ?>
-<script src="js/login.js"></script>
+<script src="js/formFunctions.js"></script>

@@ -7,10 +7,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="index.php">Add Data </a>
+                <a class="nav-link" href="index.php">Add Simple Form Data </a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="dataList.php">Data List </a>
+                <a class="nav-link" href="dataList.php">Simple Data List </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="dynamicData.php">Add Dynamic Form Data </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="dynamicDataList.php">Dynamic Data List </a>
             </li>
         </ul>
     </div>

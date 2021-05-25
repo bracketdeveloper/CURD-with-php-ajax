@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff273d5c-69e5-4335-bc74-640303a68884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CURD With Php Ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/top-bar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/ajax/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/ajax/process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/js/sweet alerts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/dynamicData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/js/addDynamicFields.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/top-bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/top-bar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/ajax/process.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/ajax/process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/js/formFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/view/js/formFunctions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -55,9 +43,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uroosa" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -69,11 +56,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Crud With Php Ajax\view" />
       <recent name="C:\xampp\htdocs\CURD With Php Ajax\view" />
       <recent name="C:\xampp\htdocs\CURD With Php Ajax\model\ajax" />
       <recent name="C:\xampp\htdocs\CURD With Php Ajax\model" />
       <recent name="C:\xampp\htdocs\CURD With Php Ajax\common" />
-      <recent name="C:\xampp\htdocs\CURD With Php Ajax" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,6 +73,11 @@
       <updated>1610610244448</updated>
       <workItem from="1610610245988" duration="2163000" />
       <workItem from="1610615446011" duration="10879000" />
+      <workItem from="1610770791229" duration="14866000" />
+      <workItem from="1611509792440" duration="17000" />
+      <workItem from="1611603881991" duration="2119000" />
+      <workItem from="1611640872011" duration="3103000" />
+      <workItem from="1619636024514" duration="901000" />
     </task>
     <servers />
   </component>

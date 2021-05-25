@@ -16,7 +16,7 @@ if(!isset($_SESSION['username'])){
            <form id="data-form" method="post" enctype="multipart/form-data">
                <div class="form-group">
                    <label for="exampleInputEmail1">Email address</label>
-                   <input type="email" name="email" class="form-control" id="txt-email" aria-describedby="emailHelp" placeholder="Enter email">
+                   <input name="email" class="form-control" id="txt-email" aria-describedby="emailHelp" placeholder="Enter email">
                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                </div>
 
